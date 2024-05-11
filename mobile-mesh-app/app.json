@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "mobile-mesh",
+    "slug": "mobile-mesh",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4b346e30-8f6c-40d2-989c-c79449020a71"
+      }
+    }
+  }
+}
